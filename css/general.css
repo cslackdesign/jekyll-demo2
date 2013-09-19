@@ -1,0 +1,13 @@
+html {
+  font-family: verdana;
+
+  background-color: #898;
+}
+
+body {
+  margin: 2rem auto;
+  padding: 1rem;
+
+  width: 25rem;
+  background-color: #fff;
+}
