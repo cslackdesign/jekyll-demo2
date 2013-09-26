@@ -4,6 +4,7 @@ size: 9 m
 discovery: 1924
 discoverer: Othniel Charles Marsh
 period: Late Jurassic
+category: herbivore
 thumb: stegosaurus.jpg
 description: Stegosaurus (meaning “roof lizard” or “covered lizard” in reference to its bony plates) is a genus of armored stegosaurid dinosaur. They lived during the Late Jurassic period (Kimmeridgian to early Tithonian), some 155 to 150 million years ago in what is now western North America.
 source: http://en.wikipedia.org/wiki/Velociraptor

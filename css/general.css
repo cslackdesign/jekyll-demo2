@@ -1,7 +1,7 @@
 html {
   font-family: verdana;
 
-  background-color: #898;
+  background-color: #333333;
 }
 
 body {
@@ -11,3 +11,28 @@ body {
   width: 25rem;
   background-color: #fff;
 }
+
+.dino-list {
+  margin: 0;
+  padding: 0;
+
+  list-style-type: none;
+}
+
+.dino-list figure {
+  margin:0;
+  padding:0;
+}
+
+.dino-list li{
+
+  float: left;
+  width: 25%;
+
+}
+
+.dino-list img {
+  display: block;
+  width: 100%;
+}
+

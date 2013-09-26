@@ -4,6 +4,7 @@ size: 2 m
 discovery: 1924
 discoverer: Henry Fairfield Osborn
 period: Late Cretaceous
+category: carnivore
 thumb: velociraptor.jpg
 description: Velociraptor is a genus of dromaeosaurid theropod dinosaur that lived approximately 75 to 71 million years ago during the later part of the Cretaceous Period.
 source: http://en.wikipedia.org/wiki/Velociraptor
