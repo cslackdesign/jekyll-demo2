@@ -1,6 +1,16 @@
 ---
 layout: default
-title: HOEM
 ---
 
-  <h1>I'M AWESOME.</h1>
+<h1>Dinosaurs</h1>
+<p>Dinosaurs are cool</p>
+
+<h2> Herbivores</h2>
+
+<ul>
+  {% for dino in site.pages %}
+    {% if dino.category =="herbivore" %}
+      <li>{{dino.name}}</li>
+    {% endif %}
+    {% endfor %}
+</ul>
